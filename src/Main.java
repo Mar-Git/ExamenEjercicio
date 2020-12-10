@@ -1,5 +1,5 @@
 
-//aÃ±ado un comentario con una fala de hortografia
+//añ±ado un comentario con una fala de ortografia
 public class Main {
 
 	public static void main(String[] args) {
